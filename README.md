@@ -1,4 +1,4 @@
-**Can I use your documents as templates?**
+**Can I use your documents as templates?**     
 You are very welcome to use any language and content from this repo. My syllabus has been added in three type of formats to help people who would like to use it as templates. I originally used the Pages template to created but not all people have Apple devices so I converted it in Word and pdf for easier sharing.
 You can watch or ⭐ star the repo to get notified automatically for any changes or new additions.      
 Make sure to credit people at all times not just with these resources!
